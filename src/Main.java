@@ -37,7 +37,7 @@ public class Main {
         printYear(year);
         System.out.println("Задание 2");
         int clientDeviceYear = 2015;
-        int phoneSystems = 1;
+        int phoneSystems = 0;
         printDownloadCorrectApp(clientDeviceYear, phoneSystems);
         System.out.println("Задание 3");
         int deliveryDistance1 = 100;
